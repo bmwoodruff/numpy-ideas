@@ -1,4 +1,7 @@
 """
+Adapted from 
+https://gist.github.com/WarrenWeckesser/c33d0236279cc5d73843f0497e14ed0e
+
 Find numpy functions whose docstrings do not contain "Examples".
 """
 
